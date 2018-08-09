@@ -8,7 +8,9 @@ Desktop.ini
 *.so
 *.egg
 *.egg-info
-./ipynb_checkpoints/
+./.ipynb_checkpoints
 dist
 build
-/data/
+./data
+*.csv
+.DS_Store
